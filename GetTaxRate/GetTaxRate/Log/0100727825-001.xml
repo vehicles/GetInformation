@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Type>11</Type>
+  <SolrID>/0100727825-001-chi-nhanh-cty-cp-phan-mem-quan-ly-dn-tai-tp-hcm</SolrID>
+  <ID>313545</ID>
+  <MaSoThue>0100727825-001</MaSoThue>
+  <NgayCap>2001-08-07T00:00:00Z</NgayCap>
+  <NgayDongMST />
+  <Title>Chi Nhánh Cty CP Phần Mềm Quản Lý DN Tại TP.HCM</Title>
+  <TitleEn></TitleEn>
+  <TitleEnAscii />
+  <DiaChiCongTy>10 Phổ Quang Phường 02 - Phường 2 - Quận Tân Bình - TP Hồ Chí Minh</DiaChiCongTy>
+  <DiaChiNhanThongBaoThue>10 Phổ Quang P.02 - Phường 2 - Quận Tân Bình - TP Hồ Chí Minh</DiaChiNhanThongBaoThue>
+  <NamTaiChinh>2011-01-01T00:00:00Z</NamTaiChinh>
+  <MaSoHienThoi></MaSoHienThoi>
+  <NgayNhanToKhai>2001-08-06T00:00:00Z</NgayNhanToKhai>
+  <NgayBatDauHopDong>2001-08-01T00:00:00Z</NgayBatDauHopDong>
+  <VonDieuLe></VonDieuLe>
+  <TongSoLaoDong>7</TongSoLaoDong>
+  <CapChuongLoaiKhoan>3-754-250-279</CapChuongLoaiKhoan>
+  <HinhThucThanhToan>Phụ thuộc</HinhThucThanhToan>
+  <PhuongPhapTinhThueGTGT>Khấu trừ</PhuongPhapTinhThueGTGT>
+  <ChuSoHuu>Ninh Thị Tố Uyên</ChuSoHuu>
+  <ChuSoHuu_DiaChi>390/13N Lê Đức Thọ P.16-Quận Gò Vấp-TP Hồ Chí Minh</ChuSoHuu_DiaChi>
+  <GiamDoc>Ninh Thị Tố Uyên</GiamDoc>
+  <GiamDoc_DiaChi></GiamDoc_DiaChi>
+  <KeToanTruong>Thái Thị Ngân</KeToanTruong>
+  <KeToanTruong_DiaChi></KeToanTruong_DiaChi>
+  <Created>2015-11-10T06:26:12Z</Created>
+  <Updated>2015-11-10T06:26:12Z</Updated>
+  <IsDelete>false</IsDelete>
+  <RequestChanged>false</RequestChanged>
+  <ExitsInGDT>true</ExitsInGDT>
+  <SourceID>338429</SourceID>
+  <TinhThanhID>4</TinhThanhID>
+  <TinhThanhTitle>TP Hồ Chí Minh</TinhThanhTitle>
+  <TinhThanhTitleAscii>/tp-ho-chi-minh</TinhThanhTitleAscii>
+  <QuanHuyenID>75</QuanHuyenID>
+  <QuanHuyenTitle>Quận Tân Bình</QuanHuyenTitle>
+  <QuanHuyenTitleAscii>/tp-ho-chi-minh/quan-tan-binh</QuanHuyenTitleAscii>
+  <PhuongXaID>138</PhuongXaID>
+  <PhuongXaTitle>Phường 2</PhuongXaTitle>
+  <PhuongXaTitleAscii>/tp-ho-chi-minh/quan-tan-binh/phuong-2</PhuongXaTitleAscii>
+  <NoiDangKyQuanLyID>14</NoiDangKyQuanLyID>
+  <NoiDangKyQuanLy_CoQuanTitle>Chi cục Thuế Quận Tân Bình</NoiDangKyQuanLy_CoQuanTitle>
+  <NoiDangKyQuanLy_CoQuanTitleAscii>/co-quan-quan-ly/chi-cuc-thue-quan-tan-binh</NoiDangKyQuanLy_CoQuanTitleAscii>
+  <NoiDangKyQuanLy_DienThoai />
+  <NoiDangKyQuanLy_Fax />
+  <NoiNopThueID />
+  <NoiNopThue_DienThoai />
+  <NoiNopThue_Fax />
+  <NoiNopThue_CoQuanTitle></NoiNopThue_CoQuanTitle>
+  <NoiNopThue_CoQuanTitleAscii></NoiNopThue_CoQuanTitleAscii>
+  <QuyetDinhThanhLap />
+  <QuyetDinhThanhLap_NgayCap />
+  <QuyetDinhThanhLap_CoQuanCapID />
+  <QuyetDinhThanhLap_CoQuanCapTitle></QuyetDinhThanhLap_CoQuanCapTitle>
+  <QuyetDinhThanhLap_CoQuanCapTitleAscii></QuyetDinhThanhLap_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh_CoQuanCapID>15771</GiayPhepKinhDoanh_CoQuanCapID>
+  <GiayPhepKinhDoanh_CoQuanCapTitle>Sở KH Và ĐT (5) 08/11/08</GiayPhepKinhDoanh_CoQuanCapTitle>
+  <GiayPhepKinhDoanh_CoQuanCapTitleAscii>/co-quan-quan-ly/so-kh-va-dt-5-08-11-08</GiayPhepKinhDoanh_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh>03004808CN01</GiayPhepKinhDoanh>
+  <GiayPhepKinhDoanh_NgayCap>2001-07-03T00:00:00Z</GiayPhepKinhDoanh_NgayCap>
+  <LoaiHinhID />
+  <LoaiHinhTitle></LoaiHinhTitle>
+  <LoaiHinhTitleAscii></LoaiHinhTitleAscii>
+  <NganhNgheID>697</NganhNgheID>
+  <NganhNgheTitle>Lập trình máy vi tính</NganhNgheTitle>
+  <NganhNgheTitleAscii>/nganh-nghe/lap-trinh-may-vi-tinh</NganhNgheTitleAscii>
+  <DSNganhNgheKinhDoanhID>697</DSNganhNgheKinhDoanhID>
+  <DSMaNganhNgheKinhDoanh>J</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>61</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>620</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>6190</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>62010</DSMaNganhNgheKinhDoanh>
+  <Lv1 />
+  <Lv2 />
+  <Lv3 />
+  <Lv4 />
+  <Lv5 />
+  <DSThuePhaiNop>1|/thue/gia-tri-gia-tang|Giá trị gia tăng</DSThuePhaiNop>
+  <DSThuePhaiNop>4|/thue/mon-bai|Môn bài</DSThuePhaiNop>
+  <DSThuePhaiNopID>4</DSThuePhaiNopID>
+  <DSThuePhaiNopID>1</DSThuePhaiNopID>
+  <LtsDoanhNghiepTrucThuoc>
+    <Type>8</Type>
+    <QuanHe>1</QuanHe>
+    <SolrID>/don-vi-chu-quan/0100727825-001-cong-ty-co-phan-phan-mem-quan-ly-doanh-nghiep</SolrID>
+    <ID>35306</ID>
+    <MaSoThue>0100727825-001</MaSoThue>
+    <Title>công ty cổ phần phần mềm quản lý doanh nghiệp</Title>
+    <DiaChi>phòng 212 nhà c2 khu vĩnh hồ</DiaChi>
+    <DoanhNghiepID>313545</DoanhNghiepID>
+    <DoanhNghiepTitle>Chi Nhánh Cty CP Phần Mềm Quản Lý DN Tại TP.HCM</DoanhNghiepTitle>
+    <DoanhNghiepMaSoThue>0100727825-001</DoanhNghiepMaSoThue>
+    <DoanhNghiepTitleAscii>chi-nhanh-cty-cp-phan-mem-quan-ly-dn-tai-tp-hcm</DoanhNghiepTitleAscii>
+  </LtsDoanhNghiepTrucThuoc>
+  <DSTags>0100727825-001</DSTags>
+  <DSTags>03004808CN01</DSTags>
+  <DSTags>TP Hồ Chí Minh</DSTags>
+  <DSTags>Quận Tân Bình</DSTags>
+  <DSTags>Phường 2</DSTags>
+  <DSTags>Ninh Thị Tố Uyên</DSTags>
+  <DSTags>Thái Thị Ngân</DSTags>
+</Root>

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Type>11</Type>
+  <SolrID>/0314452857-cong-ty-tnhh-quan-ly-bat-dong-san-pms-viet-nam</SolrID>
+  <ID>1387433</ID>
+  <MaSoThue>0314452857</MaSoThue>
+  <NgayCap>2017-06-09T00:00:00Z</NgayCap>
+  <NgayDongMST />
+  <Title>Công Ty TNHH Quản Lý Bất Động Sản Pms Việt Nam</Title>
+  <TitleEn>Viet Nam Pms Property Management Company Limited</TitleEn>
+  <TitleEnAscii />
+  <DiaChiCongTy>Số 130/43 đường 11, Phường Trường Thọ, Quận Thủ Đức, Thành phố Hồ Chí Minh</DiaChiCongTy>
+  <DiaChiNhanThongBaoThue />
+  <NamTaiChinh>2017-06-09T00:00:00Z</NamTaiChinh>
+  <MaSoHienThoi />
+  <NgayNhanToKhai>2017-06-09T00:00:00Z</NgayNhanToKhai>
+  <NgayBatDauHopDong>2017-06-09T00:00:00Z</NgayBatDauHopDong>
+  <VonDieuLe />
+  <TongSoLaoDong />
+  <CapChuongLoaiKhoan />
+  <HinhThucThanhToan />
+  <PhuongPhapTinhThueGTGT />
+  <ChuSoHuu>Hồ Thị Xuân Hiếu</ChuSoHuu>
+  <ChuSoHuu_DiaChi />
+  <GiamDoc />
+  <GiamDoc_DiaChi />
+  <KeToanTruong />
+  <KeToanTruong_DiaChi />
+  <Created>2017-06-09T09:07:59Z</Created>
+  <Updated>2017-06-09T09:07:59Z</Updated>
+  <IsDelete>false</IsDelete>
+  <RequestChanged>false</RequestChanged>
+  <ExitsInGDT>false</ExitsInGDT>
+  <SourceID>0</SourceID>
+  <TinhThanhID>4</TinhThanhID>
+  <TinhThanhTitle>TP Hồ Chí Minh</TinhThanhTitle>
+  <TinhThanhTitleAscii>/tp-ho-chi-minh</TinhThanhTitleAscii>
+  <QuanHuyenID>16</QuanHuyenID>
+  <QuanHuyenTitle>Quận Thủ Đức</QuanHuyenTitle>
+  <QuanHuyenTitleAscii>/tp-ho-chi-minh/quan-thu-duc</QuanHuyenTitleAscii>
+  <PhuongXaID>1511</PhuongXaID>
+  <PhuongXaTitle>Phường Trường Thọ</PhuongXaTitle>
+  <PhuongXaTitleAscii>/tp-ho-chi-minh/quan-thu-duc/phuong-truong-tho</PhuongXaTitleAscii>
+  <NoiDangKyQuanLyID />
+  <NoiDangKyQuanLy_CoQuanTitle></NoiDangKyQuanLy_CoQuanTitle>
+  <NoiDangKyQuanLy_CoQuanTitleAscii></NoiDangKyQuanLy_CoQuanTitleAscii>
+  <NoiDangKyQuanLy_DienThoai />
+  <NoiDangKyQuanLy_Fax />
+  <NoiNopThueID />
+  <NoiNopThue_DienThoai />
+  <NoiNopThue_Fax />
+  <NoiNopThue_CoQuanTitle></NoiNopThue_CoQuanTitle>
+  <NoiNopThue_CoQuanTitleAscii></NoiNopThue_CoQuanTitleAscii>
+  <QuyetDinhThanhLap />
+  <QuyetDinhThanhLap_NgayCap />
+  <QuyetDinhThanhLap_CoQuanCapID />
+  <QuyetDinhThanhLap_CoQuanCapTitle></QuyetDinhThanhLap_CoQuanCapTitle>
+  <QuyetDinhThanhLap_CoQuanCapTitleAscii></QuyetDinhThanhLap_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh_CoQuanCapID />
+  <GiayPhepKinhDoanh_CoQuanCapTitle></GiayPhepKinhDoanh_CoQuanCapTitle>
+  <GiayPhepKinhDoanh_CoQuanCapTitleAscii></GiayPhepKinhDoanh_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh>0314452857</GiayPhepKinhDoanh>
+  <GiayPhepKinhDoanh_NgayCap>2017-06-09T00:00:00Z</GiayPhepKinhDoanh_NgayCap>
+  <LoaiHinhID />
+  <LoaiHinhTitle></LoaiHinhTitle>
+  <LoaiHinhTitleAscii></LoaiHinhTitleAscii>
+  <NganhNgheID>739</NganhNgheID>
+  <NganhNgheTitle>Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất</NganhNgheTitle>
+  <NganhNgheTitleAscii>/nganh-nghe/tu-van-moi-gioi-dau-gia-bat-dong-san-dau-gia-quyen-su-dung-dat</NganhNgheTitleAscii>
+  <DSNganhNgheKinhDoanhID>367</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>368</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>369</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>370</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>378</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>379</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>380</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>381</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>382</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>383</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>430</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>431</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>432</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>433</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>472</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>473</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>474</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>475</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>476</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>477</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>478</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>479</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>480</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>517</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>522</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>523</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>524</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>525</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>518</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>519</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>520</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>521</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>526</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>527</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>528</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>529</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>535</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>636</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>637</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>638</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>530</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>532</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>533</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>534</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>371</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>374</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>375</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>377</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>767</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>768</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>769</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>639</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>641</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>642</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>766</DSNganhNgheKinhDoanhID>
+  <DSMaNganhNgheKinhDoanh>F</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>G</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>H</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>M</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>42</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>52</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>53</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>74</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>382</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>431</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>662</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>432</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>463</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>466</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>475</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>476</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>522</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4210</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4322</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4633</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4663</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4752</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4759</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>5229</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>7490</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43120</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43210</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43221</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>42101</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>42102</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>42200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>42900</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46331</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46332</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46340</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46631</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43222</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43290</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43300</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43900</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46632</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46633</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46634</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46635</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46636</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46637</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46639</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47521</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47522</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47523</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47524</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47525</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>74901</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>74909</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>75000</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>52292</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>52299</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>53100</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>53200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47620</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47630</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47640</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>52291</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47593</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47594</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47599</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47610</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47529</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47530</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47591</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47592</DSMaNganhNgheKinhDoanh>
+  <Lv1 />
+  <Lv2 />
+  <Lv3 />
+  <Lv4 />
+  <Lv5 />
+  <DSTags>0314452857</DSTags>
+  <DSTags>Viet Nam Pms Property Management Company Limited</DSTags>
+  <DSTags>TP Hồ Chí Minh</DSTags>
+  <DSTags>Quận Thủ Đức</DSTags>
+  <DSTags>Phường Trường Thọ</DSTags>
+  <DSTags>Hồ Thị Xuân Hiếu</DSTags>
+</Root>

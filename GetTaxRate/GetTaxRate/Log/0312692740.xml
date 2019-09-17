@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Type>11</Type>
+  <SolrID>/0312692740-cong-ty-tnhh-mot-thanh-vien-ky-thuat-thuong-mai-iwisu</SolrID>
+  <ID>167327</ID>
+  <MaSoThue>0312692740</MaSoThue>
+  <NgayCap>2014-03-17T00:00:00Z</NgayCap>
+  <NgayDongMST />
+  <Title>Công Ty TNHH Một Thành Viên Kỹ Thuật Thương Mại Iwisu</Title>
+  <TitleEn>IWISU CO.,LTD</TitleEn>
+  <TitleEnAscii />
+  <DiaChiCongTy>số 1/26 Thăng Long - Phường 4 - Quận Tân Bình - TP Hồ Chí Minh</DiaChiCongTy>
+  <DiaChiNhanThongBaoThue>số 1/26 Thăng Long - Phường 4 - Quận Tân Bình - TP Hồ Chí Minh</DiaChiNhanThongBaoThue>
+  <NamTaiChinh>2014-01-01T00:00:00Z</NamTaiChinh>
+  <MaSoHienThoi></MaSoHienThoi>
+  <NgayNhanToKhai>2014-03-14T00:00:00Z</NgayNhanToKhai>
+  <NgayBatDauHopDong>2014-03-17T00:00:00Z</NgayBatDauHopDong>
+  <VonDieuLe></VonDieuLe>
+  <TongSoLaoDong>2</TongSoLaoDong>
+  <CapChuongLoaiKhoan>3-754-190-194</CapChuongLoaiKhoan>
+  <HinhThucThanhToan></HinhThucThanhToan>
+  <PhuongPhapTinhThueGTGT>Khấu trừ</PhuongPhapTinhThueGTGT>
+  <ChuSoHuu>Lê Huy Đô</ChuSoHuu>
+  <ChuSoHuu_DiaChi>1/18 Công trường Tự Do-Phường 19-Quận Bình Thạnh-TP Hồ Chí Minh</ChuSoHuu_DiaChi>
+  <GiamDoc>Lê Huy Đô</GiamDoc>
+  <GiamDoc_DiaChi></GiamDoc_DiaChi>
+  <KeToanTruong></KeToanTruong>
+  <KeToanTruong_DiaChi></KeToanTruong_DiaChi>
+  <Created>2015-11-08T15:42:18Z</Created>
+  <Updated>2015-11-08T15:42:18Z</Updated>
+  <IsDelete>false</IsDelete>
+  <RequestChanged>false</RequestChanged>
+  <ExitsInGDT>true</ExitsInGDT>
+  <SourceID>168696</SourceID>
+  <TinhThanhID>4</TinhThanhID>
+  <TinhThanhTitle>TP Hồ Chí Minh</TinhThanhTitle>
+  <TinhThanhTitleAscii>/tp-ho-chi-minh</TinhThanhTitleAscii>
+  <QuanHuyenID>75</QuanHuyenID>
+  <QuanHuyenTitle>Quận Tân Bình</QuanHuyenTitle>
+  <QuanHuyenTitleAscii>/tp-ho-chi-minh/quan-tan-binh</QuanHuyenTitleAscii>
+  <PhuongXaID>512</PhuongXaID>
+  <PhuongXaTitle>Phường 4</PhuongXaTitle>
+  <PhuongXaTitleAscii>/tp-ho-chi-minh/quan-tan-binh/phuong-4</PhuongXaTitleAscii>
+  <NoiDangKyQuanLyID>14</NoiDangKyQuanLyID>
+  <NoiDangKyQuanLy_CoQuanTitle>Chi cục Thuế Quận Tân Bình</NoiDangKyQuanLy_CoQuanTitle>
+  <NoiDangKyQuanLy_CoQuanTitleAscii>/co-quan-quan-ly/chi-cuc-thue-quan-tan-binh</NoiDangKyQuanLy_CoQuanTitleAscii>
+  <NoiDangKyQuanLy_DienThoai>0908601662</NoiDangKyQuanLy_DienThoai>
+  <NoiDangKyQuanLy_Fax />
+  <NoiNopThueID />
+  <NoiNopThue_DienThoai>0908601662</NoiNopThue_DienThoai>
+  <NoiNopThue_Fax />
+  <NoiNopThue_CoQuanTitle></NoiNopThue_CoQuanTitle>
+  <NoiNopThue_CoQuanTitleAscii></NoiNopThue_CoQuanTitleAscii>
+  <QuyetDinhThanhLap />
+  <QuyetDinhThanhLap_NgayCap />
+  <QuyetDinhThanhLap_CoQuanCapID />
+  <QuyetDinhThanhLap_CoQuanCapTitle></QuyetDinhThanhLap_CoQuanCapTitle>
+  <QuyetDinhThanhLap_CoQuanCapTitleAscii></QuyetDinhThanhLap_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh_CoQuanCapID>2</GiayPhepKinhDoanh_CoQuanCapID>
+  <GiayPhepKinhDoanh_CoQuanCapTitle>Thành phố Hồ Chí Minh</GiayPhepKinhDoanh_CoQuanCapTitle>
+  <GiayPhepKinhDoanh_CoQuanCapTitleAscii>/co-quan-quan-ly/thanh-pho-ho-chi-minh</GiayPhepKinhDoanh_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh>0312692740</GiayPhepKinhDoanh>
+  <GiayPhepKinhDoanh_NgayCap>2014-03-17T00:00:00Z</GiayPhepKinhDoanh_NgayCap>
+  <LoaiHinhID />
+  <LoaiHinhTitle></LoaiHinhTitle>
+  <LoaiHinhTitleAscii></LoaiHinhTitleAscii>
+  <NganhNgheID>454</NganhNgheID>
+  <NganhNgheTitle>Bán buôn máy móc, thiết bị và phụ tùng máy khác</NganhNgheTitle>
+  <NganhNgheTitleAscii>/nganh-nghe/ban-buon-may-moc-thiet-bi-va-phu-tung-may-khac</NganhNgheTitleAscii>
+  <DSNganhNgheKinhDoanhID>82</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>328</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>333</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>365</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>383</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>454</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>462</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>472</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>481</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>590</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>602</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>609</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>730</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>751</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>899</DSNganhNgheKinhDoanhID>
+  <DSMaNganhNgheKinhDoanh>C</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>B</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>G</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>H</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>K</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>R</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>F</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>M</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>38</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>50</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>06</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>66</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>33</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>49</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>93</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>71</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>331</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>466</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>932</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>502</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>465</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>493</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>432</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>501</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>382</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>661</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>662</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>032</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4661</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4663</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>0322</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>5022</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>6512</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4933</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4669</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4322</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>3250</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>3830</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4659</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>7110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>5012</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>9200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>33200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>06200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>33120</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>66190</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>41000</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>93290</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43900</DSMaNganhNgheKinhDoanh>
+  <Lv1 />
+  <Lv2 />
+  <Lv3 />
+  <Lv4 />
+  <Lv5 />
+  <DSThuePhaiNop>6|/thue/tai-nguyen|Tài nguyên</DSThuePhaiNop>
+  <DSThuePhaiNop>8|/thue/thu-khac|Thu khác</DSThuePhaiNop>
+  <DSThuePhaiNop>9|/thue/xuat-nhap-khau|Xuất nhập khẩu</DSThuePhaiNop>
+  <DSThuePhaiNop>1|/thue/gia-tri-gia-tang|Giá trị gia tăng</DSThuePhaiNop>
+  <DSThuePhaiNop>2|/thue/thu-nhap-doanh-nghiep|Thu nhập doanh nghiệp</DSThuePhaiNop>
+  <DSThuePhaiNop>3|/thue/thu-nhap-ca-nhan|Thu nhập cá nhân</DSThuePhaiNop>
+  <DSThuePhaiNop>4|/thue/mon-bai|Môn bài</DSThuePhaiNop>
+  <DSThuePhaiNop>5|/thue/phi-le-phi|Phí, lệ phí</DSThuePhaiNop>
+  <DSThuePhaiNopID>5</DSThuePhaiNopID>
+  <DSThuePhaiNopID>6</DSThuePhaiNopID>
+  <DSThuePhaiNopID>8</DSThuePhaiNopID>
+  <DSThuePhaiNopID>9</DSThuePhaiNopID>
+  <DSThuePhaiNopID>1</DSThuePhaiNopID>
+  <DSThuePhaiNopID>2</DSThuePhaiNopID>
+  <DSThuePhaiNopID>3</DSThuePhaiNopID>
+  <DSThuePhaiNopID>4</DSThuePhaiNopID>
+  <DSTags>0312692740</DSTags>
+  <DSTags>0908601662</DSTags>
+  <DSTags>IWISU CO.,LTD</DSTags>
+  <DSTags>TP Hồ Chí Minh</DSTags>
+  <DSTags>Quận Tân Bình</DSTags>
+  <DSTags>Phường 4</DSTags>
+  <DSTags>Lê Huy Đô</DSTags>
+</Root>

@@ -1,0 +1,13 @@
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\bin\Debug\GetTaxRate.exe.config
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\bin\Debug\GetTaxRate.exe
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\bin\Debug\GetTaxRate.pdb
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.csprojAssemblyReference.cache
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.Properties.Resources.resources
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.csproj.GenerateResource.cache
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.csproj.CoreCompileInputs.cache
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.exe
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.pdb
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\bin\Debug\Newtonsoft.Json.dll
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\bin\Debug\Newtonsoft.Json.xml
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.frmMain.resources
+D:\TuanT\Console\GetTaxrate\GetTaxRate\GetTaxRate\obj\Debug\GetTaxRate.csproj.CopyComplete

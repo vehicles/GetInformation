@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Type>11</Type>
+  <SolrID />
+  <ID>0</ID>
+  <MaSoThue />
+  <NgayCap />
+  <NgayDongMST />
+  <Title />
+  <TitleEn />
+  <TitleEnAscii />
+  <DiaChiCongTy />
+  <DiaChiNhanThongBaoThue />
+  <NamTaiChinh />
+  <MaSoHienThoi />
+  <NgayNhanToKhai />
+  <NgayBatDauHopDong />
+  <VonDieuLe />
+  <TongSoLaoDong />
+  <CapChuongLoaiKhoan />
+  <HinhThucThanhToan />
+  <PhuongPhapTinhThueGTGT />
+  <ChuSoHuu />
+  <ChuSoHuu_DiaChi />
+  <GiamDoc />
+  <GiamDoc_DiaChi />
+  <KeToanTruong />
+  <KeToanTruong_DiaChi />
+  <Created>0001-01-01T00:00:00</Created>
+  <Updated>0001-01-01T00:00:00</Updated>
+  <IsDelete>false</IsDelete>
+  <RequestChanged>false</RequestChanged>
+  <ExitsInGDT>false</ExitsInGDT>
+  <SourceID>0</SourceID>
+  <TinhThanhID>0</TinhThanhID>
+  <TinhThanhTitle />
+  <TinhThanhTitleAscii />
+  <QuanHuyenID>0</QuanHuyenID>
+  <QuanHuyenTitle />
+  <QuanHuyenTitleAscii />
+  <PhuongXaID />
+  <PhuongXaTitle />
+  <PhuongXaTitleAscii />
+  <NoiDangKyQuanLyID />
+  <NoiDangKyQuanLy_CoQuanTitle />
+  <NoiDangKyQuanLy_CoQuanTitleAscii />
+  <NoiDangKyQuanLy_DienThoai />
+  <NoiDangKyQuanLy_Fax />
+  <NoiNopThueID />
+  <NoiNopThue_DienThoai />
+  <NoiNopThue_Fax />
+  <NoiNopThue_CoQuanTitle />
+  <NoiNopThue_CoQuanTitleAscii />
+  <QuyetDinhThanhLap />
+  <QuyetDinhThanhLap_NgayCap />
+  <QuyetDinhThanhLap_CoQuanCapID />
+  <QuyetDinhThanhLap_CoQuanCapTitle />
+  <QuyetDinhThanhLap_CoQuanCapTitleAscii />
+  <GiayPhepKinhDoanh_CoQuanCapID />
+  <GiayPhepKinhDoanh_CoQuanCapTitle />
+  <GiayPhepKinhDoanh_CoQuanCapTitleAscii />
+  <GiayPhepKinhDoanh />
+  <GiayPhepKinhDoanh_NgayCap />
+  <LoaiHinhID />
+  <LoaiHinhTitle />
+  <LoaiHinhTitleAscii />
+  <NganhNgheID />
+  <NganhNgheTitle />
+  <NganhNgheTitleAscii />
+  <Lv1 />
+  <Lv2 />
+  <Lv3 />
+  <Lv4 />
+  <Lv5 />
+  <DSTags />
+</Root>

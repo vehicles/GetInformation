@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Type>11</Type>
+  <SolrID>/0313858438-cong-ty-co-phan-tu-van-quan-ly-bat-dong-san-vina-holdings</SolrID>
+  <ID>1279600</ID>
+  <MaSoThue>0313858438</MaSoThue>
+  <NgayCap>2016-06-13T00:00:00Z</NgayCap>
+  <NgayDongMST />
+  <Title>Công Ty Cổ Phần Tư Vấn &amp; Quản Lý Bất Động Sản Vina Holdings</Title>
+  <TitleEn>VN HOLDINGS</TitleEn>
+  <TitleEnAscii />
+  <DiaChiCongTy>Mê Linh Point Tower Tầng 6&amp;7, Số 2 Ngô Đức Kế - Phường Bến Nghé - Quận 1 - TP Hồ Chí Minh</DiaChiCongTy>
+  <DiaChiNhanThongBaoThue>Mê Linh Point Tower Tầng 6&amp;7, Số 2 Ngô Đức Kế - Phường Bến Nghé - Quận 1 - TP Hồ Chí Minh</DiaChiNhanThongBaoThue>
+  <NamTaiChinh>2016-01-01T00:00:00Z</NamTaiChinh>
+  <MaSoHienThoi></MaSoHienThoi>
+  <NgayNhanToKhai>2016-06-09T00:00:00Z</NgayNhanToKhai>
+  <NgayBatDauHopDong>2016-06-14T00:00:00Z</NgayBatDauHopDong>
+  <VonDieuLe></VonDieuLe>
+  <TongSoLaoDong>25</TongSoLaoDong>
+  <CapChuongLoaiKhoan>3-754-400-402</CapChuongLoaiKhoan>
+  <HinhThucThanhToan></HinhThucThanhToan>
+  <PhuongPhapTinhThueGTGT>Trực tiếp doanh thu</PhuongPhapTinhThueGTGT>
+  <ChuSoHuu>Điểu Phạm Diễm Phương</ChuSoHuu>
+  <ChuSoHuu_DiaChi>Block A, 4.06 CC TDH Trường Thọ, Số 36A, Đường số 4, Khu phố-Phường Trường Thọ-Quận Thủ Đức-TP Hồ Chí Minh</ChuSoHuu_DiaChi>
+  <GiamDoc>Điểu Phạm Diễm Phương</GiamDoc>
+  <GiamDoc_DiaChi></GiamDoc_DiaChi>
+  <KeToanTruong></KeToanTruong>
+  <KeToanTruong_DiaChi></KeToanTruong_DiaChi>
+  <Created>2016-06-15T09:12:59Z</Created>
+  <Updated>2016-06-15T09:12:59Z</Updated>
+  <IsDelete>false</IsDelete>
+  <RequestChanged>false</RequestChanged>
+  <ExitsInGDT>true</ExitsInGDT>
+  <SourceID>1412277</SourceID>
+  <TinhThanhID>4</TinhThanhID>
+  <TinhThanhTitle>TP Hồ Chí Minh</TinhThanhTitle>
+  <TinhThanhTitleAscii>/tp-ho-chi-minh</TinhThanhTitleAscii>
+  <QuanHuyenID>9</QuanHuyenID>
+  <QuanHuyenTitle>Quận 1</QuanHuyenTitle>
+  <QuanHuyenTitleAscii>/tp-ho-chi-minh/quan-1</QuanHuyenTitleAscii>
+  <PhuongXaID>383</PhuongXaID>
+  <PhuongXaTitle>Phường Bến Nghé</PhuongXaTitle>
+  <PhuongXaTitleAscii>/tp-ho-chi-minh/quan-1/phuong-ben-nghe</PhuongXaTitleAscii>
+  <NoiDangKyQuanLyID>23</NoiDangKyQuanLyID>
+  <NoiDangKyQuanLy_CoQuanTitle>Chi cục Thuế Quận 1</NoiDangKyQuanLy_CoQuanTitle>
+  <NoiDangKyQuanLy_CoQuanTitleAscii>/co-quan-quan-ly/chi-cuc-thue-quan-1</NoiDangKyQuanLy_CoQuanTitleAscii>
+  <NoiDangKyQuanLy_DienThoai />
+  <NoiDangKyQuanLy_Fax />
+  <NoiNopThueID />
+  <NoiNopThue_DienThoai />
+  <NoiNopThue_Fax />
+  <NoiNopThue_CoQuanTitle></NoiNopThue_CoQuanTitle>
+  <NoiNopThue_CoQuanTitleAscii></NoiNopThue_CoQuanTitleAscii>
+  <QuyetDinhThanhLap />
+  <QuyetDinhThanhLap_NgayCap />
+  <QuyetDinhThanhLap_CoQuanCapID />
+  <QuyetDinhThanhLap_CoQuanCapTitle></QuyetDinhThanhLap_CoQuanCapTitle>
+  <QuyetDinhThanhLap_CoQuanCapTitleAscii></QuyetDinhThanhLap_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh_CoQuanCapID>2</GiayPhepKinhDoanh_CoQuanCapID>
+  <GiayPhepKinhDoanh_CoQuanCapTitle>Thành phố Hồ Chí Minh</GiayPhepKinhDoanh_CoQuanCapTitle>
+  <GiayPhepKinhDoanh_CoQuanCapTitleAscii>/co-quan-quan-ly/thanh-pho-ho-chi-minh</GiayPhepKinhDoanh_CoQuanCapTitleAscii>
+  <GiayPhepKinhDoanh>0313858438</GiayPhepKinhDoanh>
+  <GiayPhepKinhDoanh_NgayCap>2016-06-13T00:00:00Z</GiayPhepKinhDoanh_NgayCap>
+  <LoaiHinhID />
+  <LoaiHinhTitle></LoaiHinhTitle>
+  <LoaiHinhTitleAscii></LoaiHinhTitleAscii>
+  <NganhNgheID>739</NganhNgheID>
+  <NganhNgheTitle>Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất</NganhNgheTitle>
+  <NganhNgheTitleAscii>/nganh-nghe/tu-van-moi-gioi-dau-gia-bat-dong-san-dau-gia-quyen-su-dung-dat</NganhNgheTitleAscii>
+  <DSNganhNgheKinhDoanhID>328</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>329</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>330</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>351</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>365</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>371</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>374</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>375</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>377</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>378</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>381</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>382</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>383</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>451</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>452</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>509</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>693</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>697</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>698</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>699</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>702</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>703</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>739</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>748</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>749</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>761</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>762</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>772</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>776</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>777</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>778</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>779</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>786</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>787</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>788</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>801</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>803</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>804</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>805</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>808</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>809</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>812</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>813</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>816</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>817</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>911</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>912</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>914</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>915</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>916</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>917</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>918</DSNganhNgheKinhDoanhID>
+  <DSNganhNgheKinhDoanhID>928</DSNganhNgheKinhDoanhID>
+  <DSMaNganhNgheKinhDoanh>C</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>E</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>F</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>G</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>J</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>L</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>M</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>N</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>S</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>T</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>33</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>38</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>42</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>47</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>61</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>63</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>68</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>70</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>73</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>77</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>78</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>81</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>82</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>96</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>331</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>381</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>382</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>431</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>432</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>465</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>474</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>602</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>620</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>631</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>662</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>772</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>791</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>812</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>821</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>829</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>951</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>952</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>963</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>3250</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>3700</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>3830</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4210</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4322</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4649</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>4741</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>6190</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>6512</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>6910</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>7110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>7710</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>7730</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>7830</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>8219</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>9200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>33120</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>33130</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>33140</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>38110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>41000</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>42900</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43120</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43210</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43290</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43300</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>43900</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46510</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>46520</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>62010</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>62020</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>62090</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>63110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>63120</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>68200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>70100</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>70200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>73100</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>73200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>77210</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>77220</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>77290</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>78100</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>78200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>81100</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>81210</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>81290</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>81300</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>82110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>82200</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>82300</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>82920</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>82990</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95110</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95120</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95210</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95220</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95230</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95240</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>95290</DSMaNganhNgheKinhDoanh>
+  <DSMaNganhNgheKinhDoanh>97000</DSMaNganhNgheKinhDoanh>
+  <Lv1 />
+  <Lv2 />
+  <Lv3 />
+  <Lv4 />
+  <Lv5 />
+  <DSTags>0313858438</DSTags>
+  <DSTags>VN HOLDINGS</DSTags>
+  <DSTags>TP Hồ Chí Minh</DSTags>
+  <DSTags>Quận 1</DSTags>
+  <DSTags>Phường Bến Nghé</DSTags>
+  <DSTags>Điểu Phạm Diễm Phương</DSTags>
+</Root>
